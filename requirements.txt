@@ -1,0 +1,4 @@
+echo "fastapi==0.104.1" > requirements.txt
+echo "uvicorn==0.24.0.post1" >> requirements.txt
+echo "requests==2.31.0" >> requirements.txt
+echo "beautifulsoup4==4.12.2" >> requirements.txt
